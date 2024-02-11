@@ -1,0 +1,46 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Hello BlogController!{% endblock %}
+
+{% block body %}
+
+
+<div class="row">
+  <div class="card-body">
+    <h5 class="card-title">Default Table</h5>
+
+    <!-- Default Table -->
+    <table class="table">
+      <thead>
+        <tr>
+  <th>titre</th>
+  <th>contenu</th>
+  <th>auteur</th>
+  <th>supression</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for blog in b %}
+<tr>
+
+     <td>{{blog.titre}}</td>
+     <td>{{blog.contenu}}</td>
+     <td>{{blog.auteur}}</td>
+     <td> 
+        <a href="{{path('supp_blog',{'id':blog.id}) }}">Supprimer</a>
+     </td>
+     <td> <a href="{{path('modif_blog',{'id':blog.id}) }}">modifier</a></td>
+</tr>
+{%endfor%}
+      </tbody>
+    </table>
+    <!-- End Default Table Example -->
+  </div>
+
+
+
+
+
+
+
+{% endblock %}

@@ -1,0 +1,721 @@
+.bg-icon37 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1921px;
+  height: 78px;
+  overflow: hidden;
+  object-fit: contain;
+}
+.home1 {
+  position: absolute;
+  top: 32px;
+  left: 664px;
+  font-weight: 500;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 622px;
+}
+.bg-icon38 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 193px;
+  height: 55px;
+}
+.get-appoinment2 {
+  position: absolute;
+  top: 21px;
+  left: 21px;
+  font-weight: 500;
+  display: inline-block;
+  width: 153px;
+}
+.button7,
+.menubar1 {
+  position: absolute;
+  overflow: hidden;
+}
+.button7 {
+  top: 12px;
+  left: 1353px;
+  width: 193px;
+  height: 55px;
+  text-align: center;
+  font-size: var(--font-size-base);
+}
+.menubar1 {
+  top: 0;
+  left: 119px;
+  width: 1921px;
+  height: 78px;
+  font-size: var(--font-size-mid);
+  color: var(--color-whitesmoke);
+  font-family: var(--font-ubuntu);
+}
+.duis-aute-irure10,
+.patient-testimonials1 {
+  position: absolute;
+  top: 74px;
+  left: -15px;
+  line-height: 30px;
+  display: inline-block;
+  width: 608px;
+}
+.patient-testimonials1 {
+  top: -6.5px;
+  left: 71px;
+  font-size: var(--font-size-23xl);
+  line-height: 55px;
+  color: var(--color-darkslateblue-200);
+  width: 438px;
+}
+.img-msvg-icon,
+.title15 {
+  position: absolute;
+  overflow: hidden;
+}
+.title15 {
+  top: 0;
+  left: 399px;
+  width: 578px;
+  height: 126px;
+  text-align: center;
+  color: var(--color-darkslategray);
+  font-family: var(--font-ubuntu);
+}
+.img-msvg-icon {
+  top: calc(50% - 38.5px);
+  left: 10px;
+  border-radius: var(--br-3xs);
+  width: 77px;
+  height: 77px;
+  object-fit: cover;
+}
+.div64 {
+  position: absolute;
+  height: calc(100% - 10px);
+  top: 5px;
+  bottom: 5px;
+  left: 5px;
+  width: 97px;
+}
+.pr-abdeddayem-haggui {
+  position: absolute;
+  top: 3px;
+  left: 0;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  width: 194.6px;
+  height: 17px;
+}
+.divlist-label-name {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  height: 24px;
+}
+.psychologue {
+  position: absolute;
+  top: 7px;
+  left: 0;
+  line-height: 30px;
+  display: flex;
+  align-items: center;
+  width: 143px;
+  height: 15px;
+}
+.divlist-label-spee {
+  position: absolute;
+  width: 100%;
+  top: 13px;
+  right: 0;
+  left: 0;
+  height: 30px;
+  font-size: var(--font-size-smi);
+  color: var(--color-darkslategray-100);
+  font-family: var(--font-open-sans);
+}
+.divlist-label {
+  height: calc(100% - 25px);
+  width: calc(100% - 107px);
+  top: 20px;
+  right: 5px;
+  bottom: 5px;
+  left: 102px;
+}
+.div65,
+.divlist-label,
+.link {
+  position: absolute;
+}
+.div65 {
+  top: 5px;
+  left: 264px;
+  font-size: var(--font-size-sm);
+  line-height: 55px;
+  font-family: var(--font-open-sans);
+  color: var(--color-darkorange);
+  text-align: right;
+  display: inline-block;
+  width: 103px;
+}
+.link {
+  width: calc(100% - 374.2px);
+  top: 0;
+  right: 374.2px;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  height: 107px;
+}
+.bg-icon39 {
+  top: 0;
+  left: 0;
+  width: 197px;
+  height: 58px;
+}
+.bg-icon39,
+.div66,
+.icon15 {
+  position: absolute;
+}
+.div66 {
+  top: 11px;
+  left: 90px;
+  display: inline-block;
+  width: 40px;
+}
+.icon15 {
+  top: 12px;
+  left: 63px;
+  width: 123px;
+  height: 26px;
+  overflow: hidden;
+}
+.all-doctors2 {
+  position: absolute;
+  top: 20px;
+  left: -6px;
+  font-size: var(--font-size-sm);
+  font-weight: 500;
+  font-family: var(--font-ubuntu);
+  display: inline-block;
+  width: 192px;
+  height: 38px;
+}
+.button8 {
+  position: absolute;
+  top: 15px;
+  left: 940px;
+  width: 197px;
+  height: 58px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-mini);
+  color: var(--color-white);
+  font-family: var(--font-open-sans);
+}
+.divcard-doctor-top {
+  position: absolute;
+  width: calc(100% - 297px);
+  top: 490px;
+  right: 30px;
+  left: 267px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  height: 107px;
+}
+.professeur-en-cardiologie {
+  margin: 0;
+}
+.professeur-en-cardiologie-container1 {
+  width: 100%;
+}
+.professeur-en-cardiologie-container {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  line-height: 19px;
+  display: flex;
+  align-items: center;
+  width: 809px;
+  height: 36px;
+}
+.divlist-bio {
+  position: absolute;
+  width: calc(100% - 40px);
+  top: 17px;
+  right: 20px;
+  left: 20px;
+  height: 38px;
+}
+.icon16 {
+  position: absolute;
+  top: 16px;
+  left: -1.8px;
+  width: 16px;
+  height: 16px;
+  overflow: hidden;
+}
+.centre-urbain-nord {
+  position: absolute;
+  top: 10px;
+  left: 14px;
+  line-height: 18px;
+  display: flex;
+  align-items: center;
+  width: 191.1px;
+  height: 14px;
+}
+.divlist-label-adr {
+  position: absolute;
+  width: calc(100% - 472.2px);
+  top: 59px;
+  right: 453.2px;
+  left: 19px;
+  height: 19px;
+  font-size: var(--font-size-xs);
+  color: var(--color-darkslateblue-300);
+  font-family: var(--font-open-sans);
+}
+.divcard-doctor-bottom {
+  position: absolute;
+  width: calc(100% - 292px);
+  top: 594px;
+  right: 10px;
+  left: 282px;
+  border-radius: 0 0 var(--br-3xs) var(--br-3xs);
+  background-color: var(--color-gray-100);
+  border-top: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  height: 72px;
+  font-size: var(--font-size-smi);
+  color: var(--color-dimgray);
+}
+.bg-icon40,
+.button9 {
+  position: absolute;
+  top: 430px;
+  left: 256px;
+  width: 1250px;
+  height: 249px;
+}
+.button9 {
+  top: 5px;
+  left: 940px;
+  width: 197px;
+  height: 58px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-mini);
+  color: var(--color-white);
+  font-family: var(--font-open-sans);
+}
+.divcard-doctor-top1 {
+  position: absolute;
+  width: calc(100% - 297px);
+  top: 761px;
+  right: 30px;
+  left: 267px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  height: 107px;
+}
+.divlist-label-adr1 {
+  position: absolute;
+  width: calc(100% - 778.2px);
+  top: 936px;
+  right: 477.2px;
+  left: 301px;
+  height: 19px;
+  font-size: var(--font-size-xs);
+  color: var(--color-darkslateblue-300);
+  font-family: var(--font-open-sans);
+}
+.divcard-doctor-bottom1 {
+  position: absolute;
+  width: calc(100% - 292px);
+  top: 865px;
+  right: 10px;
+  left: 282px;
+  border-radius: 0 0 var(--br-3xs) var(--br-3xs);
+  background-color: var(--color-gray-100);
+  border-top: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  height: 72px;
+  font-size: var(--font-size-smi);
+  color: var(--color-dimgray);
+}
+.bg-icon42 {
+  position: absolute;
+  top: 714px;
+  left: 256px;
+  width: 1250px;
+  height: 249px;
+}
+.button10,
+.testimonials1 {
+  position: absolute;
+  top: 93px;
+  left: 431px;
+  width: 1561px;
+  height: 1252px;
+  overflow: hidden;
+}
+.button10 {
+  top: 20px;
+  left: 944px;
+  width: 197px;
+  height: 58px;
+  text-align: center;
+  font-size: var(--font-size-mini);
+  color: var(--color-white);
+  font-family: var(--font-open-sans);
+}
+.divcard-doctor-top2 {
+  position: absolute;
+  width: calc(100% - 2px);
+  top: 5px;
+  right: 21px;
+  left: -19px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  height: 107px;
+}
+.divlist-bio2,
+.divlist-label-adr2 {
+  position: absolute;
+  width: calc(100% - 40px);
+  top: 14px;
+  right: 20px;
+  left: 20px;
+  height: 38px;
+}
+.divlist-label-adr2 {
+  width: calc(100% - 486.2px);
+  top: 62px;
+  right: 466.2px;
+  height: 19px;
+  font-size: var(--font-size-xs);
+  color: var(--color-darkslateblue-300);
+  font-family: var(--font-open-sans);
+}
+.divcard-doctor-bottom2 {
+  position: absolute;
+  width: calc(100% + 3px);
+  top: 108px;
+  right: 1px;
+  left: -4px;
+  border-radius: 0 0 var(--br-3xs) var(--br-3xs);
+  background-color: var(--color-gray-100);
+  border-top: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  height: 72px;
+  font-size: var(--font-size-smi);
+  color: var(--color-dimgray);
+}
+.bg-icon44 {
+  position: absolute;
+  top: -56px;
+  left: -30px;
+  width: 1250px;
+  height: 249px;
+}
+.divcard-doctor-block {
+  position: absolute;
+  top: 307px;
+  left: 712px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  width: 1280px;
+  height: 211px;
+}
+.element {
+  position: absolute;
+  top: 791.6px;
+  left: 1593px;
+  width: 778.7px;
+  height: 557.4px;
+  overflow: hidden;
+  transform: rotate(-159.84deg);
+  transform-origin: 0 0;
+  opacity: 0.6;
+}
+.btn-child {
+  height: 93.33%;
+  width: 100%;
+  top: 5%;
+  right: 0;
+  bottom: 1.67%;
+  left: 0;
+  border-radius: 55px;
+  border: 1.4px solid var(--color-dodgerblue-100);
+  box-sizing: border-box;
+}
+.btn,
+.btn-child,
+.view-all {
+  position: absolute;
+}
+.view-all {
+  top: 0;
+  left: 32.5%;
+  line-height: 60px;
+  mix-blend-mode: normal;
+}
+.btn {
+  height: 7.41%;
+  width: 11.2%;
+  top: 92.59%;
+  right: 60.28%;
+  bottom: 0;
+  left: 28.51%;
+  font-size: var(--font-size-lg);
+  color: var(--color-dodgerblue-100);
+  font-family: var(--font-poppins);
+}
+.element-icon {
+  position: absolute;
+  height: 14.2%;
+  width: 7.37%;
+  top: 15.68%;
+  right: 92.63%;
+  bottom: 70.12%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  opacity: 0.3;
+}
+.check-out-our {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 56px;
+  mix-blend-mode: normal;
+}
+.text-child {
+  position: absolute;
+  top: 82px;
+  left: 203px;
+  border-radius: 5px;
+  background-color: var(--color-black);
+  width: 56px;
+  height: 2px;
+}
+.text7 {
+  position: absolute;
+  height: 10.37%;
+  width: 28.01%;
+  top: 0.74%;
+  right: 50.82%;
+  bottom: 88.89%;
+  left: 21.18%;
+  font-size: 36px;
+  font-family: var(--font-poppins);
+}
+.article-01-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  box-shadow: var(--drop-shadow);
+  width: 350px;
+  height: 512px;
+}
+.article-01-item,
+.mask-group-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 350px;
+  height: 240px;
+}
+.article-01-item {
+  border-radius: var(--br-xl) var(--br-xl) 0 0;
+  background-color: var(--color-white);
+}
+.mask-group-icon1 {
+  object-fit: cover;
+}
+.disease-detection-check-container {
+  position: absolute;
+  top: 51.56%;
+  left: 9.43%;
+  line-height: 32px;
+  font-family: var(--font-poppins);
+  mix-blend-mode: normal;
+}
+.in-this-case-container,
+.read-more2 {
+  position: absolute;
+  width: 76%;
+  top: 66.41%;
+  left: 9.43%;
+  font-size: var(--font-size-base);
+  line-height: 28px;
+  font-weight: 300;
+  color: var(--color-slategray-100);
+  display: inline-block;
+  mix-blend-mode: normal;
+}
+.read-more2 {
+  top: 87.7%;
+  font-size: var(--font-size-mid);
+  font-weight: 600;
+  color: var(--color-dodgerblue-200);
+}
+.frame-icon {
+  position: absolute;
+  top: 460px;
+  left: 134.6px;
+  width: 14.1px;
+  height: 9px;
+  overflow: hidden;
+  object-fit: contain;
+}
+.article-01 {
+  position: absolute;
+  top: 169px;
+  left: 49px;
+  width: 350px;
+  height: 512px;
+}
+.article-02-item,
+.frame-icon1,
+.mask-group-icon2 {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  width: 350px;
+  height: 240px;
+}
+.article-02-item {
+  border-radius: var(--br-xl) var(--br-xl) 0 0;
+  background-color: var(--color-white);
+}
+.frame-icon1,
+.mask-group-icon2 {
+  object-fit: cover;
+}
+.frame-icon1 {
+  top: 460px;
+  left: 134px;
+  width: 14.1px;
+  height: 9px;
+  overflow: hidden;
+  object-fit: contain;
+}
+.herbal-medicines-that-container {
+  position: absolute;
+  top: 51.56%;
+  left: 9.4%;
+  line-height: 32px;
+  font-family: var(--font-poppins);
+  mix-blend-mode: normal;
+}
+.herbal-medicine-is,
+.read-more3 {
+  position: absolute;
+  width: 75.78%;
+  top: 66.41%;
+  left: 9.4%;
+  font-size: var(--font-size-base);
+  line-height: 28px;
+  font-weight: 300;
+  color: var(--color-slategray-100);
+  display: inline-block;
+  mix-blend-mode: normal;
+}
+.read-more3 {
+  top: 87.7%;
+  font-size: var(--font-size-mid);
+  font-weight: 600;
+  color: var(--color-dodgerblue-200);
+}
+.article-02 {
+  position: absolute;
+  top: 169px;
+  left: 433px;
+  width: 351px;
+  height: 512px;
+}
+.mask-group-icon3 {
+  position: absolute;
+  height: 46.88%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 53.13%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.natural-care-for-container {
+  position: absolute;
+  top: 51.56%;
+  left: 9.14%;
+  line-height: 32px;
+  font-family: var(--font-poppins);
+  mix-blend-mode: normal;
+}
+.a-healthy-lifestyle-container,
+.read-more4 {
+  position: absolute;
+  width: 76%;
+  top: 66.41%;
+  left: 9.14%;
+  font-size: var(--font-size-base);
+  line-height: 28px;
+  font-weight: 300;
+  color: var(--color-slategray-100);
+  display: inline-block;
+  mix-blend-mode: normal;
+}
+.read-more4 {
+  top: 87.7%;
+  font-size: var(--font-size-mid);
+  font-weight: 600;
+  color: var(--color-dodgerblue-200);
+}
+.article-03 {
+  position: absolute;
+  top: 169px;
+  left: 819px;
+  width: 350px;
+  height: 512px;
+}
+.our-lates-article {
+  position: absolute;
+  top: 1238px;
+  left: 617px;
+  width: 1785.1px;
+  height: 810px;
+  font-size: var(--font-size-2xl);
+  color: var(--color-black);
+  font-family: var(--font-mulish);
+}
+.emoji,
+.menubar-parent {
+  position: relative;
+  width: 60px;
+  height: 60px;
+}
+.menubar-parent {
+  width: 100%;
+  height: 2256px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-steelblue);
+  font-family: var(--font-roboto);
+}

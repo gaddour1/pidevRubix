@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+
+
+</head>
+<body>
+    <table border="5">
+        <tr>
+        
+            <td>id</td>
+            <td>username</td>
+            <td>email</td>
+            
+        </tr>
+        {%for i in author %}
+        <tr>
+        <td>{{i.id}}</td>
+        <td>{{i.username|upper}}</td>
+        <td>{{i.email}}</td>
+        <td><a href="{{ path('app_edit', {'id': i.id}) }}">edit</a></td>
+    
+        
+        </tr>
+        {%endfor%}
+        
+        
+        </table>
+
+
+</body>
+
+</html>
