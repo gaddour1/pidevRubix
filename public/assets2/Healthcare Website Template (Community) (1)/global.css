@@ -1,0 +1,70 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+  --font-roboto: Roboto;
+  --font-jaldi: Jaldi;
+  --font-ubuntu: Ubuntu;
+  --font-open-sans: "Open Sans";
+  --font-mulish: Mulish;
+
+  /* font sizes */
+  --font-size-mid-8: 17.8px;
+  --font-size-16xl-7: 35.7px;
+  --font-size-base: 16px;
+  --font-size-mid: 17px;
+  --font-size-xl: 20px;
+  --font-size-mini: 15px;
+  --font-size-16xl: 35px;
+  --font-size-26xl: 45px;
+  --font-size-lg: 18px;
+  --font-size-23xl: 42px;
+  --font-size-9xl: 28px;
+  --font-size-6xl: 25px;
+  --font-size-11xl: 30px;
+  --font-size-36xl: 55px;
+  --font-size-sm: 14px;
+  --font-size-lgi: 19px;
+  --font-size-29xs: -16px;
+  --font-size-2xl: 21px;
+  --font-size-7xl: 26px;
+  --font-size-xs: 12px;
+  --font-size-smi: 13px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray-100: #fcfcfc;
+  --color-gray: #392e2d;
+  --color-darkslateblue-300: #24388a;
+  --color-darkslateblue-100: #37266b;
+  --color-darkslateblue-200: #0a2e72;
+  --color-dodgerblue-100: #458ff6;
+  --color-dodgerblue-200: #4089ed;
+  --color-dodgerblue: #0088ff;
+  --color-whitesmoke: #f9f9f9;
+  --color-darkslategray: #454d5d;
+  --color-darkslategray-100: #333;
+  --color-darkorange: #ff9000;
+  --color-slategray-100: #7d7987;
+  --color-slategray: #5e6f8e;
+  --color-black: #000;
+  --color-gainsboro: #e6e6e6;
+  --color-dimgray: #515151;
+  --color-steelblue: #0096d6;
+
+  /* Paddings */
+  --padding-10xl-7: 29.7px;
+
+  /* Border radiuses */
+  --br-5xs-4: 7.4px;
+  --br-25xl-6: 44.6px;
+  --br-xl: 20px;
+  --br-3xs: 10px;
+
+  /* Effects */
+  --drop-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+}
